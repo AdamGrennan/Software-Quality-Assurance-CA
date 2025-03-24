@@ -12,14 +12,13 @@ The handbook will include the following key topics:
 We will follow a **Trunk-Based Development** process:
 - Work will be done in feature branches.
 - Pull Requests will be reviewed by both team members.
-- Code will be merged into the `main` branch after approval.
+- Code will be merged into the `main` branch after teamates approval.
 
 ## Tasks & Responsibilities
 
 | **Stage / Task** | **Adam** | **Alvares** | **Both** |
 |------------------|----------|-------------|----------|
 | GitHub Repo Setup & Folder Structure | ✅ | | |
-| Handbook Introduction | | ✅ | |
 | Task Estimation (5 resources) | ✅ | | |
 | Code Reviews (5 resources) | | ✅ | |
 | Continuous Deployment (5 resources) |  |  | ✅ |
@@ -29,6 +28,7 @@ We will follow a **Trunk-Based Development** process:
 | Diagrams for Task Estimation | ✅ | | |
 | Diagrams for Code Reviews | | ✅ | |
 | Diagrams for Continuous Deployment | | | ✅ |
+| Handbook Introduction | | ✅ | |
 | Contributions Table | ✅ | | |
 | Peer Reviews & Feedback | | | ✅ |
 | Final Repo Polish & Pull Requests | | | ✅ |
