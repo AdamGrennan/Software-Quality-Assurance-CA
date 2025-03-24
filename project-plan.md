@@ -14,26 +14,23 @@ We will follow a **Trunk-Based Development** process:
 - Pull Requests will be reviewed by both team members.
 - Code will be merged into the `main` branch after teamates approval.
 
-## Tasks & Responsibilities
-
-| **Stage / Task** | **Adam** | **Alvares** | **Both** |
-|------------------|----------|-------------|----------|
-| GitHub Repo Setup & Folder Structure | ✅ | | |
-| Task Estimation (5 resources) | ✅ | | |
-| Code Reviews (5 resources) | | ✅ | |
-| Continuous Deployment (5 resources) |  |  | ✅ |
-| Task Estimation Section | ✅ | | |
-| Code Reviews Section | | ✅ | |
-| Continuous Deployment Section |  | | ✅ |
-| Diagrams for Task Estimation | ✅ | | |
-| Diagrams for Code Reviews | | ✅ | |
-| Diagrams for Continuous Deployment | | | ✅ |
-| Handbook Introduction | | ✅ | |
-| Contributions Table | ✅ | | |
-| Peer Reviews & Feedback | | | ✅ |
-| Final Repo Polish & Pull Requests | | | ✅ |
-| Lessons Learned Section |  | | ✅|
-
+| **Stage / Task**                               | **Adam** | **Alvares** | **Both** |
+|------------------------------------------------|----------|-------------|----------|
+| Research Task Estimation (5 resources)         |         |            |       ✅    |
+| Research Code Reviews (5 resources)            |        |          |      ✅      |
+| Continuous Deployment (5 resources)            |          |             | ✅        |
+| Write Task Estimation section                  | ✅        |             |          |
+| Write Code Reviews section                     |          | ✅           |          |
+| Write Continuous Deployment section            |          |             | ✅        |
+| Diagrams for Task Estimation                   | ✅        |             |          |
+| Diagrams for Code Reviews                      |          | ✅           |          |
+| Peer Review for Task Estimation section        |          | ✅           |          |
+| Peer Review for Code Reviews section           | ✅        |             |          |
+| Handbook Introduction                          |          | ✅           |          |
+| Contributions Table                            | ✅        |             |          |
+| Peer Reviews & Feedback (all sections)         |          |             | ✅        |
+| Final Repo Polish & Pull Requests              |          |             | ✅        |
+| Lessons Learned Section                        |          |             | ✅        |
 ---
 
 ## Summary
