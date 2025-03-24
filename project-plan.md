@@ -16,11 +16,11 @@ We will follow a **Trunk-Based Development** process:
 
 | **Stage / Task**                               | **Adam** | **Alvares** | **Both** |
 |------------------------------------------------|----------|-------------|----------|
-| Research Task Estimation (5 resources)         |         |            |       ✅    |
-| Research Code Reviews (5 resources)            |        |          |      ✅      |
+| Research Task Estimation (5 resources)         |     (Majority)      |            |       ✅    |
+| Research Code Reviews (5 resources)            |        |       (Majority)     |      ✅      |
 | Continuous Deployment (5 resources)            |          |             | ✅        |
-| Write Task Estimation section                  | ✅        |             |          |
-| Write Code Reviews section                     |          | ✅           |          |
+| Write Task Estimation section                  | (Majority)        |             |   ✅        |
+| Write Code Reviews section                     |          |   (Majority)        |      ✅     |
 | Write Continuous Deployment section            |          |             | ✅        |
 | Diagrams for Task Estimation                   | ✅        |             |          |
 | Diagrams for Code Reviews                      |          | ✅           |          |
