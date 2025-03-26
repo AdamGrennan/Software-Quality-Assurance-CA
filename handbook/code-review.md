@@ -6,3 +6,6 @@
 
 - *Review before or after commit, which is better?* https://softwareengineering.stackexchange.com/questions/164056/review-before-or-after-code-commit-which-is-better
 
+- *How in depth do you go with Code Reviews?* https://www.reddit.com/r/ExperiencedDevs/comments/mmrhyz/how_in_depth_do_you_go_with_code_reviews/
+
+- *Reflecting on My First Code Review Experience* https://dev.to/vinhyan/reflecting-on-my-first-code-review-experience-1ih8
