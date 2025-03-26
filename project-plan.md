@@ -6,7 +6,7 @@ This project aims to create a practical and easy-to-use Software Quality Handboo
 The handbook will include the following key topics:
 - **Task Estimation in Scrum**
 - **Code Reviews**
-- **Continuous Deployment** 
+- **Continuous Deployment & Integration** 
 
 ## Workflow
 We will follow a **Trunk-Based Development** process:
