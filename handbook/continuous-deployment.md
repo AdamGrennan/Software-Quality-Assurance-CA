@@ -2,8 +2,6 @@
 
 ## Good Practices
 
-### Break down large tasks
-
 ## Bad Practices
 
 ## Common Themes
