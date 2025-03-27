@@ -12,7 +12,7 @@ In this section, we will outline key best practices that should be consistently 
 
 - Utilise CI/CD tools to build, test, and deploy.
 - Automating the pipeline leads to faster releases, better code quality, fast feedback, and less downtime.
-- Faster feedback form customers allows for better quality of product.
+- Faster feedback from customers allows for better quality of product.
 
 ### Use Trunk-Based Development with Feature Branches
 
@@ -34,8 +34,31 @@ In this section, we will outline key best practices that should be consistently 
 - Optimise test suites to give fast feedback.
 - Run unit, integration, and regression tests automatically as part of the pipeline.
 
-
 ## Bad Practices
+
+### Ignoring feedback from the pipeline
+
+- Ignored warnings and failures lead to a lack of trust in the pipeline. If developers think the pipeline is “always broken,” they’ll bypass it, reintroducing manual errors.
+
+### Overcomplicating pipelines
+
+- Complexity leads to fragility—one small failure can derail the entire pipeline.
+- New team members struggle to understand and contribute to the pipeline.
+
+### Skipping security and compliance checks
+
+- It leaves your software vulnerable to attacks.
+- You risk failing compliance audits, which can have legal and financial consequences.
+
+### Still Relying too much on Manual Steps
+
+- Manual steps slow everything down.
+- They introduce inconsistencies and increase the risk of errors.
+
+### Lack of Proper Monitoring and Metrics
+
+- You can’t identify bottlenecks or inefficiencies.
+- It’s harder to debug when something goes wrong.
 
 ## Common Themes
 
