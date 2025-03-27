@@ -28,3 +28,16 @@ Code reviews, which is also known as peer reviews, is a systematic software qual
 
 - Reviewing more than 400 lines of code (LoC) can have an adverse impact on your ability to find bugs, most bugs are found in the first 200 lines. 
 
+## Bad Practices
+
+### Overly large pull requests
+
+- A large pull request can introduce review fatigue, leading to shallow reviews or ignored sections of code.
+
+### Not leaving actionable feedback
+
+- Comments like "This looks wrong" or "I don't like this" offer no clear direction for improvement. constructive, actionable feedback is essential to help the other party improve the code effectively.
+
+### Rushing the review process
+
+-  Rushed reviews often happen when deadlines are tight or when the reviewer is managing multiple tasks at once, this can lead to missed bugs, security issues, or poor-quality code slipping through. Thoroughly reviewing the code is crucial to avoid mistakes later on.
