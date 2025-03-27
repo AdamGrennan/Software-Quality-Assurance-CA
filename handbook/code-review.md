@@ -1,12 +1,3 @@
-## Further Reading
+# Code Reviews
 
-- *code review* https://www.sonarsource.com/learn/code-review/
-
-- *5 code review best practices* https://www.atlassian.com/blog/add-ons/code-review-best-practices
-
-- *Common code review mistakes to avoid* https://graphite.dev/guides/common-code-review-mistakes-to-avoid
-
-- *How do you do an actual code review?* https://www.reddit.com/r/learnprogramming/comments/n84xru/how_do_you_do_an_actual_code_review/
-
-- *Reflecting on My First Code Review Experience* https://dev.to/vinhyan/reflecting-on-my-first-code-review-experience-1ih8
-
+Code reviews, which is also known as peer reviews, is a systematic software quality assurance technique for developers in which the code is reviewed to find and fix errors, improve code quality, and enforce coding standards. In this section, we will be discussing the best practices that must always be completed when taking part in a code review. The aim is to provide a practical guide that helps your team navigate code reviews in a more efficient manner while also enforcing the companies coding standards.
