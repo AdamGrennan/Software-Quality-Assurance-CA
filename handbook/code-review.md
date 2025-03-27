@@ -36,8 +36,30 @@ Code reviews, which is also known as peer reviews, is a systematic software qual
 
 ### Not leaving actionable feedback
 
-- Comments like "This looks wrong" or "I don't like this" offer no clear direction for improvement. constructive, actionable feedback is essential to help the other party improve the code effectively.
+- Comments like "This looks wrong" or "I don't like this" offer no clear direction for improvement. Constructive, actionable feedback is essential to help the other party improve the code effectively.
 
 ### Rushing the review process
 
 -  Rushed reviews often happen when deadlines are tight or when the reviewer is managing multiple tasks at once, this can lead to missed bugs, security issues, or poor-quality code slipping through. Thoroughly reviewing the code is crucial to avoid mistakes later on.
+
+## Common Themes
+
+*Clarity & Readability*
+- Can someone else understand what this code is doing?
+- Does it follow logical structure and naming conventions?
+
+*Functionality*
+- Does the code do what it claims to do?
+- Are edge cases and requirements handled correctly?
+
+*Code Simplicity*
+- Is the solution as simple as possible?
+- Are there areas that are unnecessarily complex or could be refactored?
+
+*Consistency with Project Standards*
+- Is the code consistent with existing style guides and architecture?
+- Are patterns reused rather than reinvented?
+
+*Test Coverage*
+- Are there adequate tests for the changes?
+- Do tests cover both success and failure scenarios?
