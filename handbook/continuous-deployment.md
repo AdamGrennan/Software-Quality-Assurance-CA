@@ -1,4 +1,4 @@
-# Continuous Deployment and Integration
+# Continuous Integration and Continuous Deployment (CI/CD)
 
 ## Good Practices
 
@@ -33,7 +33,8 @@
 
 ## Common Themes
 
-## Diagram
+
+<img src="images/CI-CD pipeline.drawio.png"/>
 
 ## Further Reading 
 
