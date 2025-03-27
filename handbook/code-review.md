@@ -42,6 +42,8 @@ Code reviews, which is also known as peer reviews, is a systematic software qual
 
 -  Rushed reviews often happen when deadlines are tight or when the reviewer is managing multiple tasks at once, this can lead to missed bugs, security issues, or poor-quality code slipping through. Thoroughly reviewing the code is crucial to avoid mistakes later on.
 
+<img src="images/SQA-Diagram.drawio.png"/>
+
 ## Common Themes
 
 *Clarity & Readability*
@@ -63,3 +65,5 @@ Code reviews, which is also known as peer reviews, is a systematic software qual
 *Test Coverage*
 - Are there adequate tests for the changes?
 - Do tests cover both success and failure scenarios?
+
+<img src="images/SQA-Diagram1.drawio.png"/>
