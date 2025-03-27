@@ -68,3 +68,22 @@ Code reviews, which is also known as peer reviews, is a systematic software qual
 
 <img src="images/SQA-Diagram1.drawio.png"/>
 
+## Key Takeaways
+
+- Use a structured checklist and metrics (e.g., inspection rate, defect density) to maintain high code quality and identify recurring issues.
+
+- Keep reviews focused, actionable, and limited to 200–400 lines to avoid fatigue and improve defect detection.
+
+- Prioritize clarity, functionality, and test coverage over minor style concerns to ensure maintainability and robustness.
+
+## Further Reading
+
+- *code review* https://www.sonarsource.com/learn/code-review/
+
+- *5 code review best practices* https://www.atlassian.com/blog/add-ons/code-review-best-practices
+
+- *Common code review mistakes to avoid* https://graphite.dev/guides/common-code-review-mistakes-to-avoid
+
+- *How do you do an actual code review?* https://www.reddit.com/r/learnprogramming/comments/n84xru/how_do_you_do_an_actual_code_review/
+
+- *Reflecting on My First Code Review Experience* https://dev.to/vinhyan/reflecting-on-my-first-code-review-experience-1ih8
