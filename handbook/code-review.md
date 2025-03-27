@@ -67,3 +67,4 @@ Code reviews, which is also known as peer reviews, is a systematic software qual
 - Do tests cover both success and failure scenarios?
 
 <img src="images/SQA-Diagram1.drawio.png"/>
+
