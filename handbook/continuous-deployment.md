@@ -1,5 +1,11 @@
 # Continuous Integration and Continuous Deployment (CI/CD)
 
+Continuous integration (CI) is a process that runs automated checks each time a developer commits their changes to a code repository. Developers will generally make small changes and commit more often when using CI. This way they get fast feedback that their change hasn’t unintentionally broken any key components. 
+
+Continuous Deployment (CD) is the next step in the process after CI. Once the code successfully passes the automated checks, it’s automatically sent to production. 
+
+In this section, we will outline key best practices that should be consistently applied within CI/CD workflows. These guidelines are intended to help your team implement CI/CD pipelines more effectively, ensuring faster delivery, reduced errors, and improved collaboration across the development lifecycle.
+
 ## Good Practices
 
 ### Automate Pipeline
