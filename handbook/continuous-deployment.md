@@ -14,6 +14,8 @@ In this section, we will outline key best practices that should be consistently 
 - Automating the pipeline leads to faster releases, better code quality, fast feedback, and less downtime.
 - Faster feedback from customers allows for better quality of product.
 
+<img src="images/CI-CD pipeline.drawio.png"/>
+
 ### Use Trunk-Based Development with Feature Branches
 
 - Use small, frequent commits directly to the main branch feature branches.
@@ -62,8 +64,28 @@ In this section, we will outline key best practices that should be consistently 
 
 ## Common Themes
 
+### Automation
 
-<img src="images/CI-CD pipeline.drawio.png"/>
+- Builds, tests and deployments should be fully automated to reduce errors and save time.
+
+### Fast Feedback
+
+- Immediate alerts on code issues help teams fix problems quickly and keep momentum.
+
+### Incremental Delivery
+
+- Frequent, small code changes lower risk and make releases easier to manage.
+
+### Testing Culture
+
+- Automated testing at every stage ensures code quality and stability.
+
+### Collaboration
+
+- Shared pipelines and peer reviews improve team communication and collective ownership.
+
+<img src="images/SQA-Diagram2.drawio.png"/>
+
 
 ## Further Reading 
 
