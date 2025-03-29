@@ -53,8 +53,8 @@ We chose Trunk-Based Development to encourage fast iterations and avoid bottlene
 
 - Lock down the project plan earlier. We found ourselves reopening the project plan several times to update task lists and contributions. It would be more efficient to finalise it earlier and treat it as a living doc only if absolutely necessary.
 
-- We pushed some images for topics not realted to the current branch we were working of. Next time it would be better to push images only related to that working branch.
+- We pushed some images for topics not related to the current branch we were working on. Next time it would be better to push images only related to that working branch.
 
-- Some minor typo issues were only spotted during pull requests realted to image sources and links. Allocating some extra time time to Quality Assurance could have spotted these earlier.
+- Some minor typo issues were only spotted during pull requests related to image sources and links. Allocating some extra time to Quality Assurance could have spotted these earlier.
 
-- There were times when pull requests were approved or merged without thoroughly checking the changes, in raw markdown. In the future, we would take more time to review both rendered output and the actual code to catch issues earlier.
+- There were times when pull requests were approved or merged without thoroughly checking the changes, in raw markdown. In the future, we will take more time to review both rendered output and the actual code to catch issues earlier.
